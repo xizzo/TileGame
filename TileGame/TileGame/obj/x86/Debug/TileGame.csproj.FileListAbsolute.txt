@@ -1,0 +1,10 @@
+C:\Users\Gebruiker\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\TileGame.exe
+C:\Users\Gebruiker\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\TileGame.pdb
+C:\Users\Gebruiker\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\obj\x86\Debug\TileGame.csprojResolveAssemblyReference.cache
+C:\Users\Gebruiker\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Gebruiker\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\obj\x86\Debug\TileGame.exe
+C:\Users\Gebruiker\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\obj\x86\Debug\TileGame.pdb
+C:\Users\Gebruiker\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\grasstile.xnb
+C:\Users\Gebruiker\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\snowtile.xnb
+C:\Users\Gebruiker\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\char.xnb
+C:\Users\Gebruiker\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\gameFont.xnb
